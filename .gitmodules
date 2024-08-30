@@ -16,3 +16,12 @@
 [submodule "cfs/apps/sch_lab"]
 	path = cfs/apps/sch_lab
 	url = https://github.com/nasa/sch_lab.git
+[submodule "cfs/tools/elf2cfetbl"]
+	path = cfs/tools/elf2cfetbl
+	url = https://github.com/nasa/elf2cfetbl.git
+[submodule "cfs/tools/tblCRCTool"]
+	path = cfs/tools/tblCRCTool
+	url = https://github.com/nasa/tblCRCTool.git
+[submodule "cfs/tools/eds"]
+	path = cfs/tools/eds
+	url = https://github.com/nasa/Edslib.git
